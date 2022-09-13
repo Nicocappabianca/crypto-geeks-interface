@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <>
-      <p>CryptoGeeks</p>
+      <p>Crypto Geeks</p>
     </>
   );
 };
